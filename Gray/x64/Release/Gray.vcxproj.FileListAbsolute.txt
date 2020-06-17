@@ -1,0 +1,1 @@
+C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\Gray\x64\Release\Gray.vcxproj.CopyComplete

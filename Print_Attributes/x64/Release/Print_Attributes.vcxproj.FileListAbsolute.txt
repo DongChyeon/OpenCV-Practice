@@ -1,0 +1,1 @@
+C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\Print_Attributes\x64\Release\Print_Attributes.vcxproj.CopyComplete
