@@ -4,7 +4,7 @@ using namespace cv;
 using namespace std;
 
 int main() {
-	Mat src = imread("C://Racket.jpg", IMREAD_COLOR);
+	Mat src = imread("C://OpenCV_Pictures//Racket.jpg", IMREAD_COLOR);
 	if (src.empty()) { cout << "영상을 읽을 수 없음." << endl; }
 
 	imshow("이미지", src);

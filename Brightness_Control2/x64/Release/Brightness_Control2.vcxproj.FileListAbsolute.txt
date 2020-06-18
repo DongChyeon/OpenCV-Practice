@@ -1,0 +1,1 @@
+C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\Brightness_Control2\x64\Release\Brightness_Control2.vcxproj.CopyComplete
