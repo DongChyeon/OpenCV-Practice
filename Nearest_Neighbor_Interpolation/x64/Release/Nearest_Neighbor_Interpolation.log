@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\Nearest_Neighbor_Interpolation\test.cpp(27,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\Nearest_Neighbor_Interpolation\test.cpp(28,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Nearest_Neighbor_Interpolation.vcxproj -> C:\Users\Donghyeon Kim\source\repos\OpenCV_Practice\x64\Release\Nearest_Neighbor_Interpolation.exe
